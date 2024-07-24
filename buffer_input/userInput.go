@@ -48,7 +48,7 @@ func deleteUserByEmail(email string) {
 	}
 }
 
-func main1() {
+func main() {
 	fmt.Println("The source code of life begins here")
 	// Print welcome to user db
 	fmt.Println("Welcome to User DB")
